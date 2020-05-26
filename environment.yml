@@ -16,3 +16,6 @@ dependencies:
   - pyMC3
   - theano
   - scikit-learn
+  - pip
+  - pip:
+    - -e .
